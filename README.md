@@ -34,5 +34,5 @@ It securely connects to simulated routers or switches, performs **parallel confi
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<yourusername>/network-automation-python.git
+git clone https://github.com/2003pelia/network-automation-python.git
 cd network-automation-python
